@@ -1,0 +1,6 @@
+Flask
+streamlit
+yfinance
+pandas
+numpy
+scikit-learn
